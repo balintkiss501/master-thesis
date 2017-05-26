@@ -1,0 +1,28 @@
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*~.nib
+
+# Built target
+target/
+
+# Maven
+dependency-reduced-pom.xml
+
+# JetBrains IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.metadata
+.settings/
+.loadpath
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
