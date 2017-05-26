@@ -1,7 +1,7 @@
 Information retrieval from Java archive format
 ==========================================================================================
-**Computer Science master thesis by Bálint Kiss
-  Eötvös Lóránd University, Budapest 2017**
+**Computer Science master thesis by Bálint Kiss,**
+**Eötvös Lóránd University, Budapest 2017**
 
 This is my master thesis, which deals with the topic of reverse engineering Java
 class structures from JAR files. The documentation contains technical background
@@ -11,6 +11,8 @@ reader module for [CodeCompass](https://github.com/Ericsson/CodeCompass).
 This reading is useful for anyone who wants to start out with reverse engineering
 Java bytecode or anyone who wants an in-depth understanding on how the JVM executes
 bytecode programs.
+
+[Information retrieval from Java archive format (PDF)](https://github.com/balintkiss501/master-thesis/blob/master/balint_kiss_master_thesis.pdf)
 
 ## Abstract
 
